@@ -1,0 +1,1 @@
+Spinoff of OpenStreetMap navigator intented for Android phones - but never went that far.
